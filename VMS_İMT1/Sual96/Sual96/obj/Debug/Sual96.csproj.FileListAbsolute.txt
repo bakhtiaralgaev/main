@@ -1,0 +1,12 @@
+D:\Visual Studio\VMS_İMT\Sual96\Sual96\bin\Debug\Sual96.exe.config
+D:\Visual Studio\VMS_İMT\Sual96\Sual96\bin\Debug\Sual96.exe
+D:\Visual Studio\VMS_İMT\Sual96\Sual96\bin\Debug\Sual96.pdb
+D:\Visual Studio\VMS_İMT\Sual96\Sual96\bin\Debug\LockheedMartin.Prepar3D.SimConnect.dll
+D:\Visual Studio\VMS_İMT\Sual96\Sual96\obj\Debug\Sual96.csproj.AssemblyReference.cache
+D:\Visual Studio\VMS_İMT\Sual96\Sual96\obj\Debug\Sual96.Form1.resources
+D:\Visual Studio\VMS_İMT\Sual96\Sual96\obj\Debug\Sual96.Properties.Resources.resources
+D:\Visual Studio\VMS_İMT\Sual96\Sual96\obj\Debug\Sual96.csproj.GenerateResource.cache
+D:\Visual Studio\VMS_İMT\Sual96\Sual96\obj\Debug\Sual96.csproj.CoreCompileInputs.cache
+D:\Visual Studio\VMS_İMT\Sual96\Sual96\obj\Debug\Sual96.csproj.Up2Date
+D:\Visual Studio\VMS_İMT\Sual96\Sual96\obj\Debug\Sual96.exe
+D:\Visual Studio\VMS_İMT\Sual96\Sual96\obj\Debug\Sual96.pdb
